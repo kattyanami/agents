@@ -1,2 +1,13 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Amit Kattyan. I am an Agentic AI / ML Platform Engineering Leader with 9+ years of experience building secure, scalable cloud platforms on AWS across regulated environments, finance, and other high-throughput domains. I sit at the intersection of platform engineering, data infrastructure, and applied AI, enabling teams to ship reliable ML-powered products quickly and safely.
+
+I specialize in Infrastructure as Code (Terraform), CI/CD, event-driven architectures, streaming systems, and distributed ETL (Spark/Glue). I design and build platforms that make it easy for engineers and data scientists to move from prototype to production, with strong foundations in observability, cost control, and security-by-design. I am comfortable working across networking, data, and application layers to create cohesive, end-to-end solutions.
+
+As a leader, I have a proven track record of driving cross-functional initiatives from concept to impact. I define clear technical and business KPIs, align stakeholders around measurable outcomes, and build the tooling and workflows that teams need to hit those targets. I care deeply about mentoring engineers, creating high-trust teams, and combining strong engineering discipline with a bias for iteration and learning.
+
+A major focus of my recent work has been enabling AI/ML adoption in real-world, production settings. This includes:
+- Designing and operating platforms that support agentic and multi-agent systems
+- Building workflows that connect data pipelines, models, evaluation, and deployment
+- Automating repetitive operational work so teams can focus on higher-leverage problems
+- Ensuring governance, auditability, and compliance in regulated and security-sensitive environments
+
+Looking ahead, I am excited about building the next generation of AI-native platforms: systems that treat LLMs and agents as first-class runtime components, integrate seamlessly with existing data and microservice ecosystems, and provide out-of-the-box capabilities for evaluation, safety, and continuous improvement. My goal is simple: help organizations turn AI, data, and cloud infrastructure into durable competitive advantage—through robust platforms, thoughtful automation, and human-centered leadership.
